@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="post_creator_image">Добавить изображение (до 5 штук)</string>
+    <string name="post_creator_title">Заголовок:</string>
+    <string name="post_creator_title_placeholder">2-месячные котята</string>
+    <string name="post_creator_description">Описание:</string>
+    <string name="post_creator_description_placeholder">Порода: такая-то, возраст: такой-то и т.д.</string>
+    <string name="post_creator_category">Категория:</string>
+    <string name="post_creator_phone_number">Номер телефона:</string>
+    <string name="post_creator_phone_number_placeholder">+7 (900) 000–00–00</string>
+    <string name="post_creator_address">Адрес:</string>
+    <string name="post_creator_address_placeholder">ул. Пушкина, д. Колотушкина</string>
+    <string name="post_creator_button">Выложить объявление</string>
+</resources>

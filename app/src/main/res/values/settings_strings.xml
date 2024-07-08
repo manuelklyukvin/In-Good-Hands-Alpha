@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_guest_account">Гость</string>
+    <string name="settings_post_creator">Выложить объявление</string>
+    <string name="settings_post_moderation">Модерация объявлений</string>
+    <string name="settings_logout">Выйти</string>
+</resources>

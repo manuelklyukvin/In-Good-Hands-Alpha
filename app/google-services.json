@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "779131225986",
+    "firebase_url": "https://in-good-hands-79066-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "in-good-hands-79066",
+    "storage_bucket": "in-good-hands-79066.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779131225986:android:df2f368ac7e7a2596ef19b",
+        "android_client_info": {
+          "package_name": "com.klyukvin.ingoodhands"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmEYZ1l-KBEiMQ2AMIH9ccci7Puw0-lpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

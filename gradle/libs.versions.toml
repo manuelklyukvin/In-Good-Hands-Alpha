@@ -1,0 +1,61 @@
+[versions]
+agp = "8.3.2"
+kotlin = "1.9.22"
+appcompat = "1.7.0"
+core = "1.13.1"
+junit = "4.13.2"
+coroutines = "1.7.3"
+lifecycleRuntime = "2.8.1"
+activityCompose = "1.9.0"
+composeBom = "2024.05.00"
+material = "1.12.0"
+googleServices = "4.4.2"
+
+# ========== My versions ========== #
+firebaseDatabase = "21.0.0"
+firebaseStorage = "21.0.0"
+firebaseAuthentication = "23.0.0"
+hilt = "2.50"
+hiltNavigation = "1.2.0"
+navigation = "2.7.7"
+splashScreen = "1.0.1"
+coil = "2.5.0"
+
+ksp = "1.9.22-1.0.17"
+
+[libraries]
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version.ref = "appcompat" }
+androidx-core = { module = "androidx.core:core-ktx", version.ref = "core" }
+androidx-lifecycle-runtime = { module = "androidx.lifecycle:lifecycle-runtime-ktx", version.ref = "lifecycleRuntime" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "activityCompose" }
+androidx-compose-bom = { module = "androidx.compose:compose-bom", version.ref = "composeBom" }
+androidx-material3 = { module = "androidx.compose.material3:material3" }
+material = { module = "com.google.android.material:material", version.ref = "material" }
+coroutines = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "coroutines" }
+junit = { module = "junit:junit", version.ref = "junit" }
+
+# ========== My libraries ========== #
+firebase-database = { module = "com.google.firebase:firebase-database-ktx", version.ref = "firebaseDatabase" }
+firebase-storage = { module = "com.google.firebase:firebase-storage-ktx", version.ref = "firebaseStorage" }
+firebase-authentication = { module = "com.google.firebase:firebase-auth-ktx", version.ref = "firebaseAuthentication" }
+
+hilt = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
+hilt-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hilt" }
+hilt-navigation = { module = "androidx.hilt:hilt-navigation-compose", version.ref = "hiltNavigation" }
+
+navigation = { module = "androidx.navigation:navigation-compose", version.ref = "navigation" }
+
+splashScreen = { module = "androidx.core:core-splashscreen", version.ref = "splashScreen" }
+
+coil = { module = "io.coil-kt:coil-compose", version.ref = "coil" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+android-library = { id = "com.android.library", version.ref = "agp" }
+kotlin = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+googleServices = { id = "com.google.gms.google-services", version.ref = "googleServices" }
+
+# ========== My plugins ========== #
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+hilt = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }

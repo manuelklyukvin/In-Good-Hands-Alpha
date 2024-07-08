@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="authentication_field_characters_are_not_acceptable">Поле содержит недопустимые символы</string>
+    <string name="authentication_field_is_too_short">Слишком короткое значение поля</string>
+    <string name="authentication_field_is_too_long">Слишком длинное значение поля</string>
+
+    <string name="authentication_name_field_contains_different_layouts">Поле должно содержать символы только одной раскладки</string>
+    <string name="authentication_name_fields_contain_different_layouts">Поля должны содержать символы только одной раскладки</string>
+
+    <string name="authentication_email_is_invalid">Ваша почта недействительна</string>
+
+    <string name="authentication_passwords_are_not_equal">Пароли не совпадают</string>
+</resources>

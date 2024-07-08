@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="post_creator_images_is_not_unique">Все изображения должны быть уникальными</string>
+    <string name="post_creator_title_is_too_long">Заголовок слишком длинный</string>
+    <string name="post_creator_description_is_too_long">Описание слишком длинное</string>
+    <string name="post_creator_phone_number_is_too_long">Номер телефона слишком длинный</string>
+    <string name="post_creator_address_is_too_long">Адресс слишком длинный</string>
+</resources>

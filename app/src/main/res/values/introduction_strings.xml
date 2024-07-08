@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="introduction_title">Приветствуем!</string>
+    <string name="introduction_subtitle">Создаем счастливые истории, где каждая лапка находит свой дом. Вместе!</string>
+    <string name="introduction_button">Приступим!</string>
+</resources>

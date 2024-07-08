@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feed_search">Поиск</string>
+    <string name="feed_previous_page">Назад</string>
+    <string name="feed_next_page">Вперёд</string>
+</resources>

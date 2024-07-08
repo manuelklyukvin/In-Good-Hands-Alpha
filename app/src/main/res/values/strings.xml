@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">In Good Hands</string>
+
+    <string name="main_bottom_bar_home">Главная</string>
+    <string name="main_bottom_bar_menu">Меню</string>
+
+    <string name="main_category">Категория:</string>
+    <string name="main_image_counter">из</string>
+
+    <string name="main_connection_error">Нет доступа к интернету</string>
+    <string name="main_refresh">Попробовать ещё раз</string>
+</resources>

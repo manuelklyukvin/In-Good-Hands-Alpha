@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.InGoodHands" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#F2F1F7</item>
+        <item name="android:navigationBarColor">#F2F1F7</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.InGoodHands.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen</item>
+        <item name="windowSplashScreenBackground">#F2F1F7</item>
+        <item name="postSplashScreenTheme">@style/Theme.InGoodHands</item>
+        <item name="android:statusBarColor">#F2F1F7</item>
+        <item name="android:navigationBarColor">#F2F1F7</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
